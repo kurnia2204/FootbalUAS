@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D51010</color>
+    <color name="colorPrimaryTransparent">#b91d1f2d</color>
+    <color name="colorPrimaryDark">#15161e</color>
+    <color name="colorAccent">#E66F6F</color>
+    <color name="colorAccentLight">#87ffffff</color>
+
+    <color name="colorTextDark">#121216</color>
+    <color name="colorTextLight">#34343e</color>
+    <color name="colorTextExtraLight">#9292a4</color>
+    <color name="colorBackground">#f0f0f5</color>
+    <color name="colorCardBackground">#f8f8fa</color>
+
+    <color name="teal">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyan">#0680EA</color>
+</resources>

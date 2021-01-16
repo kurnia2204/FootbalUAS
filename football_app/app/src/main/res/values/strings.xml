@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="title_schedule">Match</string>
+    <string name="title_teams">Teams</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="team_name">Team Name</string>
+    <string name="team_detail">Team Detail</string>
+    <string name="stadium_name">Stadium</string>
+    <string name="stadium_description">Stadium Description</string>
+    <string name="formed_year">Since</string>
+    <string name="team_players">Players</string>
+    <string name="team_overview">Overview</string>
+    <string name="team_badge">Badge</string>
+    <string name="schedule_home">Home</string>
+    <string name="schedule_away">Away</string>
+    <string name="schedule_date">Match Day</string>
+    <string name="schedule_vs">VS</string>
+</resources>
